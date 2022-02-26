@@ -1,4 +1,11 @@
-# Hi there, I'm Mahdi Murshed
+# I'm Mahdi Murshed
+
+## I'm a Developer!
+
+- 🌱 I’m currently learning graphql
+- 👯 I’m looking to collaborate with other nextjs/react developers
+- 🥅 2022 Goals: Be more proficient with full stack web development and learn data science
+
 
 ### Connect with me:
 
@@ -25,7 +32,7 @@
 <img align="left" alt="nextjs" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
+<img align="left" alt="flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 
