@@ -14,6 +14,7 @@
   - [ ] Linux
   - [ ] Data Science
   - [ ] Jest
+  - [ ] leetcoding more often
  
 
 
