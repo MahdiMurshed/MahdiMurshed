@@ -4,7 +4,19 @@
 
 - 🌱 I’m currently learning graphql
 - 👯 I’m looking to collaborate with other nextjs/react developers
-- 🥅 2022 Goals: Be more proficient with full stack web development and learn data science
+
+## 2022 Goals:
+
+
+  - [x] Next.js
+  - [ ] Graphql
+  - [ ] MongoDB
+  - [ ] Linux
+  - [ ] Data Science
+  - [ ] Jest
+ 
+
+
 
 
 ### Connect with me:
