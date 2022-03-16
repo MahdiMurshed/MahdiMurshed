@@ -9,7 +9,7 @@
 
 
   - [x] Next.js
-  - [ ] Graphql
+  - [x] Graphql
   - [ ] MongoDB
   - [ ] Linux
   - [ ] Data Science
