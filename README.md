@@ -46,6 +46,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="saas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="storybook" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" style="padding-right:10px;"/>
 <br />
 <br />
 
