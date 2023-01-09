@@ -1,9 +1,7 @@
-# I'm Mahdi Murshed
+# Mahdi Murshed
 
-## I'm a Developer!
+## Software Engineer
 
-- 🌱 I’m currently learning graphql
-- 👯 I’m looking to collaborate with other nextjs/react developers
 
 
 ### Connect with me:
@@ -36,18 +34,3 @@
 <img align="left" alt="storybook" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" style="padding-right:10px;"/>
 <br />
 <br />
-
-<!--
-**MahdiMurshed/MahdiMurshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
